@@ -16,20 +16,20 @@
 
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
-    <string name="app_name">GravityBox</string>
+    <string name="app_name">गरवितयबॉक्स</string>
 
-    <string name="battery_style_title">Battery indicator style</string>	
+    <string name="battery_style_title">बैटरी सूचक शैली</string>	
     <string name="battery_style_stock">Stock battery indicator</string>
-    <string name="battery_style_circle">Circle battery</string>
-    <string name="battery_style_circle_percent">Circle battery with percentage</string>
-    <string name="battery_style_kitkat">KitKat battery</string>
-    <string name="battery_style_kitkat_percent">KitKat battery with percentage</string>
-    <string name="battery_style_none">None</string>
+    <string name="battery_style_circle">वृत्त बैटरी</string>
+    <string name="battery_style_circle_percent">प्रतिशत के साथ वृत्त बैटरी</string>
+    <string name="battery_style_kitkat">किटकैट बैटरी</string>
+    <string name="battery_style_kitkat_percent">प्रतिशत के साथ किटकैट बैटरी</string>
+    <string name="battery_style_none">कोई भी नहीं</string>
 
     <string name="vol_music_controls_title">Volume keys skip track</string>
     <string name="vol_music_controls_summary">Skip tracks on volume keys long-press while screen is off</string>
 
-    <string name="low_battery_warning_policy_title">Low battery warning</string>
+    <string name="low_battery_warning_policy_title">कम बैटरी चेतावनी</string>
     <string name="low_battery_warning_full">Pop-up and sound</string>
     <string name="low_battery_warning_popup">Pop-up only</string>
     <string name="low_battery_warning_sound">Sound only</string>
