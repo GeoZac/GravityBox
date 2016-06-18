@@ -77,13 +77,13 @@
     <string name="caller_fullscreen_photo_summary">Displays fullscreen caller photo on incoming call screen</string>
 
     <!-- QuickSettings strings -->
-    <string name="quick_settings_sync_on">Sync On</string>
-    <string name="quick_settings_sync_off">Sync Off</string>
+    <string name="quick_settings_sync_on">सिंक ऑन</string>
+    <string name="quick_settings_sync_off">सिंक बंद</string>
     <string name="quick_settings_wifi_ap_on">Wi-Fi AP On</string>
     <string name="quick_settings_wifi_ap_off">Wi-Fi AP Off</string>
-    <string name="quick_settings_torch_on">Torch On</string>
-    <string name="quick_settings_torch_off">Torch Off</string>
-    <string name="quick_settings_torch_off_notif">Touch to turn off</string>
+    <string name="quick_settings_torch_on">टॉर्च चालू</string>
+    <string name="quick_settings_torch_off">मशाल बंद</string>
+    <string name="quick_settings_torch_off_notif">बंद करने के लिए टच करें</string>
     <string name="quick_settings_qr_playing">Playing&#8230;</string>
     <string name="quick_settings_qr_recording">Recording&#8230;</string>
     <string name="quick_settings_qr_recorded">Recorded</string>
@@ -94,7 +94,7 @@
     <string name="quick_settings_expanded_desktop_expanded">Expanded</string>
     <string name="quick_settings_stay_awake_on">Stay Awake On</string>
     <string name="quick_settings_stay_awake_off">Stay Awake Off</string>
-    <string name="quick_settings_wifi">Wi-Fi</string>
+    <string name="quick_settings_wifi">वाई-फाई</string>
     <string name="quick_settings_wifi_off">Wi-Fi Off</string>
     <string name="quick_settings_wifi_not_connected">Not connected</string>
     <string name="quick_settings_wifi_turning_on">Turning on&#8230;</string>
